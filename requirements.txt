@@ -1,0 +1,10 @@
+pandas
+requests
+json
+matplotlib
+seaborn
+keplergl
+streamlit
+streamlit_keplergl
+numerize
+pillow

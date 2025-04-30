@@ -1,6 +1,5 @@
 pandas
 requests
-json
 matplotlib
 seaborn
 keplergl

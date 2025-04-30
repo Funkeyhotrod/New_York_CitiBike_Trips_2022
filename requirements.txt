@@ -4,6 +4,7 @@ json
 matplotlib
 seaborn
 keplergl
+streamlit_keplergl
 streamlit
 numerize
 pillow

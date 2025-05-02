@@ -106,6 +106,7 @@ else:
     st.header('Conclusions and recommendations')
     bikes = Image.open('Citi Bikes2.webp')  #source: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.groupon.com%2Fdeals%2Fciti-bike&psig=AOvVaw2GYf1GYjDl4o6t-vBBJiAc&ust=1745878036105000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICH0Yed-YwDFQAAAAAdAAAAABAK
     st.image(bikes)
-    st.markdown('### From this analysis I have 2 recommendations for what CitiBikes can do moving forward:')
+    st.markdown('### From this analysis I have 3 recommendations for what CitiBikes can do moving forward:')
     st.markdown('- Add more stations around the varius hot spot locations around the city, like W 21 St/6 Ave and West St/Chambers St')
     st.markdown('- Make sure that these more popular stations are fully stocked during the summer to keep up with demand, and reduce the number of bikes during the winter to provent the stations from being congested with unused bikes')
+    st.markdown('- Conducting further analysis regarding frequented end stations, and finding the difference between a station being used as a starting point and an ending point of a trip')
